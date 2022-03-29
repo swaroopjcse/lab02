@@ -3,7 +3,7 @@ FROM gcc:latest
 
 # COPY . /usr/src/cpp_test
 
-RUN curl -O http://localhost:1313/courses/csf111-sp22/
+RUN curl -O https://swaroopjoshi.in/courses/csf111-sp22/
 
 WORKDIR /usr/src/assignment
 
