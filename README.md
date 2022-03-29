@@ -38,4 +38,15 @@ Let's look at each one of these.
 
 ## First program
 
-The given starter code in `main.cpp` 
+The given starter code in `main.cpp` looks like this:
+
+```cpp
+#include <cp/cp.hpp>
+
+int main() {
+  cp::print("My first program.");
+  cp::print(42);
+
+  return 0;
+}
+```
