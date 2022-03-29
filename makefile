@@ -12,5 +12,5 @@ $(PROG): $(MAIN).cpp
 	g++ -L$(LIBPATH)/lib/ $(MAIN).cpp -I$(LIBPATH)/include/ \
 		$(CXXFLAGS) -c$(LIB) -o $(PROG)
 
-		
-	./lab02 > output.txt
+all: $(PROG)		
+	./ > output.txt
