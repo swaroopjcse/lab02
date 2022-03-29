@@ -33,4 +33,5 @@ Let's look at each one of these.
 3. `README.md` is this file. In each lab/assignment, this is where you must start. Make a habit of reading the README file thoroughly.
 4. `cp-0.1.0-Linux/` contains our library. **TODO**
 5. `errors.txt` is empty, and ideally should remain empty. It's where we record any compile-time errors your code may cause.
-6. `main.cpp` is where you will write your code. We will come back to 
+6. `main.cpp` is where you will write your code. We will come back to what you are expected to do in this lab soon.
+7. 
