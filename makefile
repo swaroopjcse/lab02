@@ -13,4 +13,6 @@ $(PROG): $(MAIN).cpp
 		$(CXXFLAGS) -c$(LIB) -o $(PROG)
 
 all: $(PROG)		
-	./ > output.txt
+	./$(PROG) > $(OUTPUT)
+
+clean: 
