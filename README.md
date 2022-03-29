@@ -28,4 +28,4 @@ First, look at the contents of the folder:
 
 Let's look at each one of these.
 
-1. `Data/` contains the configurations for running your prog
+1. `Data/` contains the configurations for running your program on the underlying docker instance and 
