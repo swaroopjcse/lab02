@@ -10,3 +10,6 @@ In this lab, you will learn about --
 
 We assume you have already set your working environments according to the  instructions.
 
+## Steps
+
+1. 
