@@ -1,7 +1,7 @@
 #include <cp/cp.hpp>
 
 int main() {
-  cp::print("hello");
-  
+  cp::print(1);
+
   return 0;
 }
