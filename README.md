@@ -73,4 +73,4 @@ The `cp::print` instruction is coming from our library. Let's check what the *do
 * Expand the first one. It will show you three options. Choose the middle one: `cp::print(auto value)`.
 * Read the description: "Prints the given value to the console."
 
-**Q.3**: `print` was rather simple and straightforward. Explore the library documentation and note down at least three other functions (in `Answers.md`)
+**Q.3**: `print` was rather simple and straightforward. Explore the library documentation and visit at least three other functions. Does the description of these functions make sense? (in `Answers.md`). 
