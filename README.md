@@ -28,4 +28,5 @@ First, look at the contents of the folder:
 
 Let's look at each one of these.
 
-1. `Data/` contains the configurations for running your program on the underlying docker instance. **Do not make any changes to the contents of this folder.
+1. `Data/` contains the configurations for running your program on the underlying docker instance. **Do not make any changes** to the contents of this folder.
+2. `Makefile` is a program that 
