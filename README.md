@@ -77,9 +77,8 @@ The `cp::print` instruction is coming from our library. Let's check what the *do
 
 It's perfectly fine if they don't - but put in the efforts and ask questions to your TAs. Very soon, you will be pros in making sense of the documentation!
 
-### Errors
+## Errors
 
 We have talked about three types of errors in class.
 
 **Q.4:** Try out the three examples from slides and note down what you observe. Did you or did you not get the errors as expected? Make a note in `Answers.md`.
-
