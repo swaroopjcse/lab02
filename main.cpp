@@ -2,7 +2,7 @@
 
 int main() {
   cp::print("My first program.");
-  cp::pr
+  cp::println();
   cp::print(42);
 
   return 0;
