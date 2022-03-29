@@ -21,5 +21,9 @@ We assume you have already set your working environments according to the  instr
    ├── Makefile
 ├── README.md
 ├── cp-0.1.0-Linux
+├── errors.txt
+├── lab02
+├── main.cpp
+└── output.txt
    ```
 2. 
