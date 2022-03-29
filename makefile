@@ -6,6 +6,7 @@ OUTPUT = output.txt
 MAIN = main
 
 lib: libcp.so
+	$(CXX) $()
 
 all:
 	g++ main.cpp > Errorlog.txt  2>&1
