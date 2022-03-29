@@ -75,4 +75,4 @@ The `cp::print` instruction is coming from our library. Let's check what the *do
 
 **Q.3**: `print` was rather simple and straightforward. Explore the library documentation and visit at least three other functions. Does the description of these functions make sense? Tell us in `Answers.md`.
 
-It's perfectly fine if they don't - but put in the efforts and ask questions to your TAs.
+It's perfectly fine if they don't - but put in the efforts and ask questions to your TAs. Very soon, you will be pros in making sense of the documentation
