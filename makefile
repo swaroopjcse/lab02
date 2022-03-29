@@ -4,6 +4,7 @@ ERRORS = errors.txt
 OUTPUT = output.txt
 
 MAIN = main
+LIB = cp
 
 all:
 	g++ main.cpp > Errorlog.txt  2>&1
