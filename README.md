@@ -26,6 +26,6 @@ First, look at the contents of the folder:
 └── output.txt
 ```
 
-Let's explore each one of these in details.
+Let's look at each one of these.
 
-1. `Data/` contains the configurations for running 
+1. `Data/` contains the configurations for running your prog
