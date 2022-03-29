@@ -7,7 +7,8 @@ MAIN = main
 LIB = cp
 
 all:
-	g++ -std=c++20 
+	g++ -std=c++20 main.cpp -o lab02
+	./
 
 	# g++ main.cpp > Errorlog.txt  2>&1
 	# ./a.out < input.txt > Resultlog.txt
