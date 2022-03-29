@@ -16,6 +16,7 @@ We assume you have already set your working environments according to the  instr
 
 1. Look at the contents of the folder:
    ```sh
-   
+   .
+├── Data
    ```
 2. 
