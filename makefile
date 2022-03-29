@@ -8,7 +8,7 @@ LIB = cp
 LIBPATH = ./cp-0.1.0-Linux
 
 all:
-	g++ -L$(LIBPATH)/lib/   main.cpp -I$(LIBPATH)/include/ \
-		$(CXXFLAGS) -c$(LIB)
-		-lcp -o lab02
+	g++ -L$(LIBPATH)/lib/ $(MAIN).cpp -I$(LIBPATH)/include/ \
+		$(CXXFLAGS) -c$(LIB) -o $(PROG)
+		
 	./lab02 > output.txt
