@@ -16,3 +16,4 @@ all: $(PROG)
 	./$(PROG) > $(OUTPUT)
 
 clean: 
+	rm $(PROG)
