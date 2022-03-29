@@ -17,6 +17,9 @@ We assume you have already set your working environments according to the  instr
 1. Look at the contents of the folder:
    ```sh
    .
-├── Data
+   ├── Data
+   ├── Makefile
+├── README.md
+├── cp-0.1.0-Linux
    ```
 2. 
