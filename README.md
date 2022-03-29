@@ -8,5 +8,5 @@ In this lab, you will learn about --
 * using basic `cp::print` operation
 * the output log on the docker environment
 
-We assume you have already set their working environments according to the given instructions.
+We assume you have already set your working environments according to the  instructions.
 
