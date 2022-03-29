@@ -72,4 +72,5 @@ The `cp::print` instruction is coming from our library. Let's check what the *do
 * Type `print` in the search box on the left and hit enter. It will show you `print` and `println`.
 * Expand the first one. It will show you three options. Choose the middle one: `cp::print(auto value)`.
 * Read the description: "Prints the given value to the console."
-* 
+
+Q.3: 
