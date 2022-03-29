@@ -61,7 +61,7 @@ Remember the discussion in class about `cp::print` taking different *types* of v
 
 ## Exploring the library
 
-The `cp::print` instruction is coming from our library. Let's check what the *documentation* of this instruction says. 
+The `cp::print` instruction is coming from our library. Let's check what the *documentation* of this instruction says.
 
 * Go to the course web page.
-* Scroll down to the section "CP Library" and click the link: http://swaroopjoshi.in/courses/cp-library/
+* Scroll down to the section "CP Library" and click the link: <http://swaroopjoshi.in/courses/cp-library/>. You can bookmark this link
