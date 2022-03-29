@@ -61,4 +61,4 @@ Remember the discussion in class about `cp::print` taking different *types* of v
 
 ## Exploring the library
 
-The `cp::print` instruction is coming f
+The `cp::print` instruction is coming from our library. Let's see what 
