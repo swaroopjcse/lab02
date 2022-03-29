@@ -3,7 +3,8 @@ FROM gcc:latest
 
 # COPY . /usr/src/cpp_test
 
-RUN curl -O https://swaroopjoshi.in/courses/csf111-sp22/
+RUN cd /
+RUN curl -O https://swaroopjoshi.in/courses/csf111-sp22/cp-0.1.0-Linux.zip
 
 WORKDIR /usr/src/assignment
 
