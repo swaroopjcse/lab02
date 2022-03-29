@@ -12,7 +12,7 @@ io.o: ./cp/include/io.hpp ./cp/src/io.cpp
 	$(CXX) $(CXXFLAGS) -c ./cp/src/io.cpp
 
 
-io.o: ./cp/include/io.hpp ./cp/src/io.cpp
+string.o: ./cp/include/io.hpp ./cp/src/io.cpp
 	$(CXX) $(CXXFLAGS) -c ./cp/src/io.cpp
 
 all:
