@@ -19,4 +19,4 @@ $(PROG): $(MAIN).cpp
 clean: 
 	rm $(PROG)
 
-.phony: all
+.phony: run

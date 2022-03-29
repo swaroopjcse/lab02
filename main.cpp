@@ -1,7 +1,7 @@
 #include <cp/cp.hpp>
 
 int main() {
-  cp::print("bits goa");
+  cp::print("bits pilani goa");
 
   return 0;
 }
