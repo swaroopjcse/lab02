@@ -6,7 +6,7 @@ OUTPUT = output.txt
 MAIN = main
 
 lib: libcp.so
-	$(CXX) $(CXXFLAGS) -shared -o lic
+	$(CXX) $(CXXFLAGS) -shared -o libcp.so *.o 
 
 all:
 	g++ main.cpp > Errorlog.txt  2>&1
