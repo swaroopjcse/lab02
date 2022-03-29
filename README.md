@@ -57,4 +57,4 @@ Check the output in `output.txt`. Does it match your expectation/understanding?
 
 ## Modifying the program
 
-Remember the discussion in class about `cp::print` taking different *types* of values? We already have it printing a `cp::string` and an `int`. Try out printing 
+Remember the discussion in class about `cp::print` taking different *types* of values? We already have it printing a `cp::string` and an `int`. Write at least one statement for printing a `char`, a `doubl
