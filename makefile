@@ -1,10 +1,11 @@
 CXX = g++
-CXXFLAGS = -g -O2 -Wall
+CXXFLAGS = -g -O2 -Wall -std=c++20
 ERRORS = errors.txt
-OUTPUT=output.txt
+OUTPUT = output.txt
 
 MAIN = main
-LIB = 
+
+
 
 all:
 	g++ main.cpp > Errorlog.txt  2>&1
