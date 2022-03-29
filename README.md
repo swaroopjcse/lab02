@@ -12,18 +12,17 @@ We assume you have already set your working environments according to the  instr
 
 ## Steps
 
-0. Using the VS Code extension you have configured, download this starter code. (If you are reading this in VSCode, you have already done this step.)
+Using the VS Code extension you have configured, download this starter code. (If you are reading this in VSCode, you have already done this step.)
 
 1. Look at the contents of the folder:
    ```sh
    .
    ├── Data
    ├── Makefile
-├── README.md
-├── cp-0.1.0-Linux
-├── errors.txt
-├── lab02
-├── main.cpp
-└── output.txt
+   ├── README.md
+   ├── cp-0.1.0-Linux
+   ├── errors.txt
+   ├── main.cpp
+   └── output.txt
    ```
 2. 
