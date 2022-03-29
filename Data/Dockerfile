@@ -5,7 +5,7 @@ FROM gcc:latest
 
 RUN cd /tmp
 RUN curl -O https://swaroopjoshi.in/courses/csf111-sp22/cp-0.1.0-Linux.zip
-
+RUN unzip cp-0.1.0-Linux.zip 
 
 WORKDIR /usr/src/assignment
 
