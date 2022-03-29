@@ -14,7 +14,7 @@ We assume you have already set your working environments according to the  instr
 
 Using the VS Code extension you have configured, download this starter code. (If you are reading this in VSCode, you have already done this step.)
 
-First, look at the contents of the folder:
+First, look at the contents of the folder. This is the general structure for all the labs and assignments in this course. 
 
 ```sh
 ├── Answers.md
