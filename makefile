@@ -5,7 +5,7 @@ OUTPUT = output.txt
 
 MAIN = main
 
-lib: ./cp/
+lib: libcp.so
 
 all:
 	g++ main.cpp > Errorlog.txt  2>&1
