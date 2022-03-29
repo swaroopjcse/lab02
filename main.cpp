@@ -1,8 +1,8 @@
 #include <cp/cp.hpp>
 
 int main() {
-cp::print(“At Rs. 50 per ice cream, three ice creams cost:”);
-cp::print(50 + 3);
+  cp::print("My first program.");
+  cp::print(42);
 
   return 0;
 }

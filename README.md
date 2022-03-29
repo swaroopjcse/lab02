@@ -36,4 +36,5 @@ Let's look at each one of these.
 6. `main.cpp` is where you will write your code. We will come back to what you are expected to do in this lab soon.
 7. `output.txt` is where we capture what you would see on the console if you run this program outside docker. Instead of seeing the output on the terminal, you will see it here. Make a habit of checking this file after you run your program.
 
-## 
+## First program
+
