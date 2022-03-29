@@ -10,7 +10,7 @@ LIBPATH = ./cp-0.1.0-Linux
 
 $(PROG): $(MAIN).cpp
 	g++ -L$(LIBPATH)/lib/ $(MAIN).cpp -I$(LIBPATH)/include/ \
-		$(CXXFLAGS) -c$(LIB) -o $(PROG)
+		$(CXXFLAGS) -l$(LIB) -o $(PROG)
 
 all: $(PROG)		
 	./$(PROG) > $(OUTPUT)
