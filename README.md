@@ -16,12 +16,14 @@ Using the VS Code extension you have configured, download this starter code. (If
 
 First, look at the contents of the folder:
 
-   ```sh
-   ├── Data
-   ├── Makefile
-   ├── README.md
-   ├── cp-0.1.0-Linux
-   ├── errors.txt
-   ├── main.cpp
-   └── output.txt
-   ```
+```sh
+├── Data
+├── Makefile
+├── README.md
+├── cp-0.1.0-Linux
+├── errors.txt
+├── main.cpp
+└── output.txt
+```
+
+Let's explore each one of these in details
