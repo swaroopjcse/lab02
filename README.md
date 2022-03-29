@@ -51,4 +51,5 @@ int main() {
 }
 ```
 
-You have already seen this code in class. Go ahead and start docker (by turning on the button under "Assignment Fetcher") and click "
+You have already seen this code in class. Go ahead and start docker (by turning on the button under "Assignment Fetcher") and click "Run".
+
