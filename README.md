@@ -61,7 +61,7 @@ You have already seen this code in class. Go ahead and start docker (by turning 
 
 Remember the discussion in class about `cp::print` taking different *types* of values? We already have it printing a `cp::string` and an `int`. Write at least one statement for printing a `char`, a `double`, and a `bool`. Run the program again. 
 
-**Q.2**Does the output match your expectation? **Note down your answer in Answers.md**
+**Q.2:** Does the output match your expectation? **Note down your answer in Answers.md**
 
 ## Exploring the library
 
@@ -72,3 +72,4 @@ The `cp::print` instruction is coming from our library. Let's check what the *do
 * Type `print` in the search box on the left and hit enter. It will show you `print` and `println`.
 * Expand the first one. It will show you three options. Choose the middle one: `cp::print(auto value)`.
 * Read the description: "Prints the given value to the console."
+* 
