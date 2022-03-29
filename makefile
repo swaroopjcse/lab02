@@ -1,6 +1,6 @@
 CXX = g++
 CXXFLAGS = -g -O2 -Wall
-ERRORS=errors.txt
+ERRORS = errors.txt
 OUTPUT=output.txt
 
 MAIN = main
