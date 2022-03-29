@@ -12,5 +12,5 @@ We assume you have already set your working environments according to the  instr
 
 ## Steps
 
-0. Using the VS Code extension you have configured, download this starter code. If you are reading this in 
+0. Using the VS Code extension you have configured, download this starter code. (If you are reading this in VSCode, you have already done this step.)
 1. 
