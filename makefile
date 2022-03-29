@@ -12,6 +12,9 @@ run: $(PROG)
 	./$(PROG) > $(OUTPUT)
 
 $(PROG): $(MAIN).cpp
+	g++ main.cpp 
+
+
 	# g++ -L$(LIBPATH)/lib/ $(MAIN).cpp -I$(LIBPATH)/include/ \
 	# 	$(CXXFLAGS) -l$(LIB) -o $(PROG) \
 	# 	> $(ERRORS) 2>&1
