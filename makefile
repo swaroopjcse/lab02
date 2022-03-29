@@ -8,7 +8,7 @@ MAIN = main
 libcp.so: io.o string.o
 	$(CXX) $(CXXFLAGS) -shared -o libcp.so *.o
 
-io.o: 
+io.o: ./cp/include/io.hpp 
 
 all:
 	g++ main.cpp > Errorlog.txt  2>&1
