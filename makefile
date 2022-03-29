@@ -14,7 +14,7 @@ run: $(PROG)
 $(PROG): $(MAIN).cpp
 	g++ -L$(LIBPATH)/lib/ $(MAIN).cpp -I$(LIBPATH)/include/ \
 		$(CXXFLAGS) -l$(LIB) -o $(PROG) \
-		
+		> $(ERRORS) 2>&1
 
 
 clean: 
