@@ -9,7 +9,11 @@ libcp.so: io.o string.o
 	$(CXX) $(CXXFLAGS) -shared -o libcp.so *.o
 
 io.o: ./cp/include/io.hpp ./cp/src/io.cpp
-	$(CXX) $(CXXFLAGS) -c ./cp/sr
+	$(CXX) $(CXXFLAGS) -c ./cp/src/io.cpp
+
+
+io.o: ./cp/include/io.hpp ./cp/src/io.cpp
+	$(CXX) $(CXXFLAGS) -c ./cp/src/io.cpp
 
 all:
 	g++ main.cpp > Errorlog.txt  2>&1
