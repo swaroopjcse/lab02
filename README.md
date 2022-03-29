@@ -38,3 +38,4 @@ Let's look at each one of these.
 
 ## First program
 
+The given starter code in `main.cpp` 
