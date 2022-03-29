@@ -1,0 +1,19 @@
+main.cpp: In function 'int main()':
+main.cpp:4:12: error: no matching function for call to 'print(const char [18], int)'
+    4 |   cp::print("My first program.", 42);
+      |   ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from ./cp-0.1.0-Linux/include/cp/cp.hpp:5,
+                 from main.cpp:1:
+./cp-0.1.0-Linux/include/cp/io.hpp:14:8: note: candidate: 'template<class auto:11> void cp::print(auto:11)'
+   14 |   void print(auto value) {
+      |        ^~~~~
+./cp-0.1.0-Linux/include/cp/io.hpp:14:8: note:   template argument deduction/substitution failed:
+main.cpp:4:12: note:   candidate expects 1 argument, 2 provided
+    4 |   cp::print("My first program.", 42);
+      |   ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~
+In file included from ./cp-0.1.0-Linux/include/cp/cp.hpp:5,
+                 from main.cpp:1:
+./cp-0.1.0-Linux/include/cp/io.hpp:22:8: note: candidate: 'void cp::print(bool)'
+   22 |   void print(bool value);
+      |        ^~~~~
+./cp-0.1.0-Linux/include/cp/io.hpp:22:8: note:   candidate expects 1 argument, 2 provided
