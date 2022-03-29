@@ -32,4 +32,4 @@ Let's look at each one of these.
 2. `Makefile` is a program that is invoked when you click the **Run** button in VS Code. We will not go into how it compiles and executes your code at this point. Again, make **no changes to the Makefile**.
 3. `README.md` is this file. In each lab/assignment, this is where you must start. Make a habit of reading the README file thoroughly.
 4. `cp-0.1.0-Linux/` contains our library. **TODO**
-5. `errors.txt` 
+5. `errors.txt` is empty, and ideally shou
