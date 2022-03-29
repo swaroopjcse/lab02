@@ -65,6 +65,6 @@ The `cp::print` instruction is coming from our library. Let's check what the *do
 
 * Go to the course web page.
 * Scroll down to the section "CP Library" and click the link: <http://swaroopjoshi.in/courses/cp-library/>. You can bookmark this link for quick access.
-* Type `print` in the search box on the left and hit enter. It will show you `print` and `println`. 
+* Type `print` in the search box on the left and hit enter. It will show you `print` and `println`.
 * Expand the first one. It will show you three options. Choose the middle one: `cp::print(auto value)`.
-* Read the description: 
+* Read the description: "Prints the given value to the console."
