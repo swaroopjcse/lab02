@@ -3,7 +3,7 @@
 int main() {
   cp::print("bits pilani goa");
 
-  cp::println("")
+  cp::println("!! print me!");
 
   return 0;
 }
