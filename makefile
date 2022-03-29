@@ -6,9 +6,10 @@ OUTPUT = output.txt
 MAIN = main
 
 lib: libcp.so
+
+libcp.so: io.o string.o
 	$(CXX) $(CXXFLAGS) -shared -o libcp.so *.o
 
-libcp.so: 
 
 all:
 	g++ main.cpp > Errorlog.txt  2>&1
