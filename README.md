@@ -79,4 +79,4 @@ It's perfectly fine if they don't - but put in the efforts and ask questions to 
 
 ### Errors
 
-We have talked about three types of errors in class. Try out the three examples from slides and note down the errors you see 
+We have talked about three types of errors in class. Try out the three examples from slides and note down 
