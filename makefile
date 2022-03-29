@@ -9,7 +9,7 @@ LIB = cp
 LIBPATH = ./cp-0.1.0-Linux
 
 run: $(PROG)		
-	./$(PROG) # > $(OUTPUT)
+	./$(PROG) 
 
 $(PROG): $(MAIN).cpp
 	g++ -L$(LIBPATH)/lib/ $(MAIN).cpp -I$(LIBPATH)/include/ \
