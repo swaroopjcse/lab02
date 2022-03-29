@@ -79,4 +79,6 @@ It's perfectly fine if they don't - but put in the efforts and ask questions to 
 
 ### Errors
 
-We have talked about three types of errors in class. **Q Try out the three examples from slides and note down what you observe. 
+We have talked about three types of errors in class. 
+
+**Q.4:** Try out the three examples from slides and note down what you observe. Do 
