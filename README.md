@@ -59,7 +59,7 @@ You have already seen this code in class. Go ahead and start docker (by turning 
 
 ## Modifying the program
 
-Remember the discussion in class about `cp::print` taking different *types* of values? We already have it printing a `cp::string` and an `int`. Write at least one statement for printing a `char`, a `double`, and a `bool`. Run the program again. 
+Remember the discussion in class about `cp::print` taking different *types* of values? We already have it printing a `cp::string` and an `int`. Write at least one statement for printing a `char`, a `double`, and a `bool`. Run the program again.
 
 **Q.2:** Does the output match your expectation? **Note down your answer in Answers.md**
 
@@ -79,6 +79,7 @@ It's perfectly fine if they don't - but put in the efforts and ask questions to 
 
 ### Errors
 
-We have talked about three types of errors in class. 
+We have talked about three types of errors in class.
 
-**Q.4:** Try out the three examples from slides and note down what you observe. Did you or did you not get the errors as expected? (Make a note in Answers.md`)
+**Q.4:** Try out the three examples from slides and note down what you observe. Did you or did you not get the errors as expected? Make a note in `Answers.md`.
+
