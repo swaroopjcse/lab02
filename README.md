@@ -26,4 +26,6 @@ First, look at the contents of the folder:
 └── output.txt
 ```
 
-Let's explore each one of these in details
+Let's explore each one of these in details.
+
+1. `Data/` contains the configurations for running 
