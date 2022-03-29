@@ -55,12 +55,13 @@ int main() {
 
 You have already seen this code in class. Go ahead and start docker (by turning on the button under "Assignment Fetcher") and click "Run".
 
-
-Check the output in `output.txt`. Does it match your expectation/understanding? **Note down your answer in Answers.md**
+**Q.1**: Check the output in `output.txt`. Does it match your expectation/understanding? **Note down your answer in Answers.md**
 
 ## Modifying the program
 
-Remember the discussion in class about `cp::print` taking different *types* of values? We already have it printing a `cp::string` and an `int`. Write at least one statement for printing a `char`, a `double`, and a `bool`. Run the program again. Does the output match your expectation? **Note down your answer in Answers.md**
+Remember the discussion in class about `cp::print` taking different *types* of values? We already have it printing a `cp::string` and an `int`. Write at least one statement for printing a `char`, a `double`, and a `bool`. Run the program again. 
+
+**Q.2**Does the output match your expectation? **Note down your answer in Answers.md**
 
 ## Exploring the library
 
