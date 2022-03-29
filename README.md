@@ -51,4 +51,4 @@ int main() {
 }
 ```
 
-You have already seen this code in class. Go ahead and start the 
+You have already seen this code in class. Go ahead and start docker (by clicking the ")
