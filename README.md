@@ -30,4 +30,4 @@ Let's look at each one of these.
 
 1. `Data/` contains the configurations for running your program on the underlying docker instance. **Do not make any changes** to the contents of this folder.
 2. `Makefile` is a program that is invoked when you click the **Run** button in VS Code. We will not go into how it compiles and executes your code at this point. Again, make **no changes to the Makefile**.
-3. `README.md` is this file. 
+3. `README.md` is this file. In each lab/assignment, this is where you must start. 
