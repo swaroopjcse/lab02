@@ -17,3 +17,5 @@ all: $(PROG)
 
 clean: 
 	rm $(PROG)
+
+.phony: all
