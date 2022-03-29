@@ -29,7 +29,7 @@ First, look at the contents of the folder:
 
 Let's look at each one of these.
 
-1. `Answers.md` 
+1. `Answers.md` is where you will write answers to specific questions in a lab/assignment.
 2. `Data/` contains the configurations for running your program on the underlying docker instance. **Do not make any changes** to the contents of this folder.
 3. `Makefile` is a program that is invoked when you click the **Run** button in VS Code. We will not go into how it compiles and executes your code at this point. Again, make **no changes to the Makefile**.
 4. `README.md` is this file. In each lab/assignment, this is where you must start. Make a habit of reading the README file thoroughly.
