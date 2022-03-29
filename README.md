@@ -10,7 +10,7 @@ In this lab, you will learn about --
 
 We assume you have already set your working environments according to the  instructions.
 
-## Understanding the 
+## Understanding the given files
 
 Using the VS Code extension you have configured, download this starter code. (If you are reading this in VSCode, you have already done this step.)
 
@@ -35,3 +35,4 @@ Let's look at each one of these.
 5. `errors.txt` is empty, and ideally should remain empty. It's where we record any compile-time errors your code may cause.
 6. `main.cpp` is where you will write your code. We will come back to what you are expected to do in this lab soon.
 7. `output.txt` is where we capture what you would see on the console if you run this program outside docker. Instead of seeing the output on the terminal, you will see it here. Make a habit of checking this file after you run your program.
+
