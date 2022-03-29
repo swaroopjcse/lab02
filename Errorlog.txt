@@ -1,0 +1,4 @@
+main.cpp:1:10: fatal error: cp/cp.hpp: No such file or directory
+    1 | #include <cp/cp.hpp>
+      |          ^~~~~~~~~~~
+compilation terminated.
