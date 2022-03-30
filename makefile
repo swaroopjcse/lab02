@@ -12,7 +12,6 @@ run: $(PROG)
 	./$(PROG) > $(OUTPUT)
 
 $(PROG): $(MAIN).cpp
-	g++ main.cpp -o lab02 -lcp
 
 
 	# g++ -L$(LIBPATH)/lib/ $(MAIN).cpp -I$(LIBPATH)/include/ \
