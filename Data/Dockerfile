@@ -9,6 +9,8 @@ FROM gcc:latest
 # RUN cp -r cp-0.1.0-Linux/include/cp/ /usr/local/include/
 # RUN cp cp-0.1.0-Linux/lib/libcp.a /usr/local/lib/
 
+CMD []
+
 WORKDIR /usr/src/assignment
 
 # RUN g++ Account.cpp Transaction.cpp SimpleClasses.cpp > log_file.txt 2>&1
